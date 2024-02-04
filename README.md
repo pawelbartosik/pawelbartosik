@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 
-<h3 align="center">I'm a 3rd-year student from Poland, interested in frontend development</h3>
+<h3 align="center">Automation and Robotic engineer from Poland, interested in web development</h3>
 
 <br>
 <h2 align="center">👨 About me:</h2>
